@@ -33,3 +33,6 @@ Use this data to perform the following:
 **Submission**:
 
 >Create a public GitHub repo and upload the folders for the assignment on the GitHub and submit the link to Canvas.   **Please note that the work needs to be organized as folders and subfolders and only notebooks are acceptable source files.**v
+
+Assignmenet Link:
+[Assignment 2_3_combined.docx](../../Downloads/Assignment%202_3_combined.docx)
